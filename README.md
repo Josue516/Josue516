@@ -1,5 +1,8 @@
-## Hi there 👋
-
+<h1 align="center">Hola, soy Josué Medina 👋</h1>
+<div align="center">
+<img src="https://i.ibb.co/w9LSdy7/Banner-minimalista-Josue-Medina.png" width=1000px height=250px>
+</div>
+## Sobre mi:
 <!--
 **Josue516/Josue516** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
