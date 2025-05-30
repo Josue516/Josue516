@@ -2,7 +2,9 @@
 <div align="center">
 <img src="https://i.ibb.co/w9LSdy7/Banner-minimalista-Josue-Medina.png" width=1000px height=250px>
 </div>
-## Sobre mi:
+<h2>Sobre mi:</h2>
+- 💻 Estudiante de Programación e informatica.
+- ☕ Programador Java.
 <!--
 **Josue516/Josue516** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
