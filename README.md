@@ -8,7 +8,6 @@
 </span>
 <h2><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Acerca de mi:</h2>
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-
 - :man_student: Estudiante de `Programación e informatica`.
 - :coffee: Aprendiendo `Java`.
 - :pencil: Con muchas ganas de `aprender`.
@@ -16,7 +15,7 @@
 - :thinking: Siempre abierto a `nuevas experiencias`.
 <br>
 <details>
-  <summary>GitHub Stats:</summary>
+  <summary><h3>GitHub Stats:</h3></summary>
   <br>
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
