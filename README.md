@@ -7,6 +7,3 @@
 - :pencil: Con muchas ganas de `aprender`.
 - :technologist: Me gusta usar el Software para resolver `Problemas`.
 - :thinking: Siempre abierto a `nuevas experiencias`.
-<p align = "center">
-	![snake gif](https://github.com/Josue516/snk/blob/output/github-contribution-grid-snake.svg)
-</p>
