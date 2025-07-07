@@ -24,6 +24,17 @@
 <br/>
 </p>
 </details>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+- **Lenguajes**:
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+- **Databases**:
+
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
 <h2>🐍 Una Serpiente Hambrienta:</h2>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Josue516/Josue516/blob/output/github-contribution-grid-snake-dark.svg">
