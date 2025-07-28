@@ -25,7 +25,7 @@
 <a href="https://github.com/Josue516">
   <img 
     alt="Josue516's GitHub Stats" 
-    src="https://github-readme-stats.vercel.app/api?username=Josue516&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact&cache_seconds=60" 
+    src="https://github-readme-stats.vercel.app/api?username=Josue516&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact&cache_seconds=3600" 
     height="230px"
   />
 </a>
