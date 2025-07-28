@@ -22,8 +22,13 @@
   <summary> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><h2> Github Stats </h2></summary>
   <br>
 <p align="center">
-    <a href="https://github.com/Josue516/github-readme-stats">
-	    <img alt="Josue516's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Josue516&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+<a href="https://github.com/Josue516">
+  <img 
+    alt="Josue516's GitHub Stats" 
+    src="https://github-readme-stats.vercel.app/api?username=Josue516&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact&cache_seconds=60" 
+    height="230px"
+  />
+</a>
 <br/>
 </p>
 </details>
