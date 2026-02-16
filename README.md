@@ -17,6 +17,7 @@
 - :pencil: Con muchas ganas de `aprender`.
 - :technologist: Me gusta usar el Software para resolver `Problemas`.
 - :thinking: Siempre abierto a `nuevas experiencias`.
+- :jigsaw: Mi perfil en [LeetCode](https://leetcode.com/JosueAaron/)
 <br>
 <details>
   <summary> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><h2> Github Stats </h2></summary>
